@@ -1,0 +1,5 @@
+
+BioTech 2.0                    -> CentMedEko Centrala(koszt = 450 * 70.5 = 31725,00 z³)
+BioTech 2.0                    -> CentMedEko 24h(koszt = 450 * 70.0 = 31500,00 z³)
+Eko Polska 2020                -> CentMedEko 24h(koszt = 240 * 80.0 = 19200,00 z³)
+Op³aty ca³kowite = 82425,00 z³
